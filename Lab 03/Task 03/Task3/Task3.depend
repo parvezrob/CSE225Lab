@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1582480499 source:d:\lab\spring 20\cse225l.8-9\manuals and solutions\lab 03\task3\main.cpp
+	<iostream>
+	"time.h"
+
+1582480699 d:\lab\spring 20\cse225l.8-9\manuals and solutions\lab 03\task3\time.h
+	<iostream>
+	"time.tpp"
+
+1582480673 d:\lab\spring 20\cse225l.8-9\manuals and solutions\lab 03\task3\time.tpp
+	"time.h"
+

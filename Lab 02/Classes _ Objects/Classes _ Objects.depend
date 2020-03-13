@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1582477656 source:d:\lab\spring 20\cse225l.8-9\manuals and solutions\lab 02\classes & objects\main.cpp
+	<iostream>
+	"Fraction.h"
+
+1582477120 d:\lab\spring 20\cse225l.8-9\manuals and solutions\lab 02\classes & objects\fraction.h
+	<iostream>
+	"Fraction.tpp"
+
+1582477686 d:\lab\spring 20\cse225l.8-9\manuals and solutions\lab 02\classes & objects\fraction.tpp
+	"Fraction.h"
+

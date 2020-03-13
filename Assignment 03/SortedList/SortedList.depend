@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1583950050 source:e:\new folder (2)\sortedlist\main.cpp
+	<iostream>
+	"SortedList.h"
+
+1583950050 t.h"
+
+1583947966 e:\new folder (2)\sortedlist\sortedlist.h
+	"SortedList.tpp"
+
+1583947966 t.tpp"
+
+1583949987 e:\new folder (2)\sortedlist\sortedlist.tpp
+	"SortedList.h"
+	<iostream>
+
+1583950373 
+
+1583950050 source:e:\new folder (2)\1520852042\sortedlist\main.cpp
+	<iostream>
+	"SortedList.h"
+
+1583947966 e:\new folder (2)\1520852042\sortedlist\sortedlist.h
+	"SortedList.tpp"
+
+1583950373 e:\new folder (2)\1520852042\sortedlist\sortedlist.tpp
+	"SortedList.h"
+	<iostream>
+
+1583950050 source:/home/zeus/Pictures/1520852042/SortedList/main.cpp
+	<iostream>
+	"SortedList.h"
+
+1583947966 /home/zeus/Pictures/1520852042/SortedList/SortedList.h
+	"SortedList.tpp"
+
+1583950372 /home/zeus/Pictures/1520852042/SortedList/SortedList.tpp
+	"SortedList.h"
+	<iostream>
+

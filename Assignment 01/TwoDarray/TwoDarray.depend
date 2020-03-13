@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1583052632 source:/home/zeus/Desktop/CSE225/Lab 04/Task 02/TwoDarray/TwoDarray.cpp
+	"TwoDarray.h"
+	<bits/stdc++.h>
+
+1583054206 /home/zeus/Desktop/CSE225/Lab 04/Task 02/TwoDarray/TwoDarray.h
+	"TwoDarray.tpp"
+
+1583052797 source:/home/zeus/Desktop/CSE225/Lab 04/Task 02/TwoDarray/main.cpp
+	<bits/stdc++.h>
+	"TwoDarray.h"
+
+1583054177 /home/zeus/Desktop/CSE225/Lab 04/Task 02/TwoDarray/TwoDarray.tpp
+	"TwoDarray.h"
+	<bits/stdc++.h>
+
+1583052797 source:/home/zeus/Desktop/lab assignment/assignment/TwoDarray/main.cpp
+	<bits/stdc++.h>
+	"TwoDarray.h"
+
+1583054206 /home/zeus/Desktop/lab assignment/assignment/TwoDarray/TwoDarray.h
+	"TwoDarray.tpp"
+
+1583054177 /home/zeus/Desktop/lab assignment/assignment/TwoDarray/TwoDarray.tpp
+	"TwoDarray.h"
+	<bits/stdc++.h>
+
