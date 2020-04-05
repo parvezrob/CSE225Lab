@@ -7,7 +7,7 @@ int main()
     int row;
     cout << "enter the size of the row"<<endl;
 
-    cin>> rows
+    cin>> row;
 
     char ** arr = new char*[row];
 

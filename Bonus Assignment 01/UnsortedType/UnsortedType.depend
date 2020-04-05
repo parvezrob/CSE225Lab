@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584393791 source:/home/zeus/Documents/Labs/Bonus Assignment 01/UnsortedType/main.cpp
+	<iostream>
+	"UnsortedType.h"
+
+1584393744 /home/zeus/Documents/Labs/Bonus Assignment 01/UnsortedType/UnsortedType.h
+	"UnsortedType.tpp"
+
+1584393962 /home/zeus/Documents/Labs/Bonus Assignment 01/UnsortedType/UnsortedType.tpp
+	"UnsortedType.h"
+
